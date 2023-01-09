@@ -108,11 +108,14 @@ list of all of his github repositories, which are not forks will returned
 
 - Springboot
 - Junit, Mockito,  Mock MVC 
+- Docker
+- Jenkins
+- AWS (ECS, Fargate, CloudFormation)
 - https://developer.github.com/v3 as a backing API
 ## Requirements
 
-- JDK 1.8
-- Maven 3
+- Java 
+- Maven 
 ## Run Locally
 
 
