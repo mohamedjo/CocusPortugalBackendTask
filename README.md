@@ -1,7 +1,7 @@
 
 # Backend Task
 
-REST API For interacting with the GitHub REST API
+REST API For interacting with the GitHub open REST API
 
 ## Features
 
